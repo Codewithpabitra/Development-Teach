@@ -3,6 +3,7 @@
 
 ## excercises
 1. create a Landing page design with HTML and CSS only , try to make it responsive
+- ![alt text](image.png)
 
 2. create a simple grading system in js by taking marks using conditionals
 
