@@ -11,3 +11,7 @@
 
 - if user have both email and password => loggedin
 - otherwise => not loggedin  
+
+4. design this login page
+
+- ![alt text](image-1.png)
