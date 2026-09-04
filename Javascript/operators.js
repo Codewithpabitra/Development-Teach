@@ -42,3 +42,7 @@ let age = 87;
 // ternary operator
 age >= 18 ? console.log("adult **") : console.log("young **")
 // condiotion ? true action : false action
+
+fullName = "Arundhuti Jana"
+
+console.log(fullName)
